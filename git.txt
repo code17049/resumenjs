@@ -1,0 +1,6 @@
+git init
+git status
+git add . || git add "NombreFile"
+git config --global user.email "email@Git"
+git config --global user.name "namecuentaGit"
+git commit -m "Este es mi primer commit"
