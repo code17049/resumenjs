@@ -1,0 +1,8 @@
+unica: 	npm install nombre-paquete (No recomendada)
+
+npm install
+global: 					npm install nombre-paquete -g
+como dependencia del projecto:	npm install nombre-paquete --save
+como dependencia de desarrollo:	npm install nombre-paquete --save-dev
+	
+

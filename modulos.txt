@@ -1,0 +1,17 @@
+
+Debuger con VScode
+#Opcion 1
+npm init -y [Crea el Json]
+clic en RUN and DEBUG
+clic en RUN and DEBUG [Crea el lauch.json]
+
+#Opcion 2
+node --inspect file.js
+debug URL
+pegarUrl del servidor
+
+#Opcion 3
+node --inspect file.js
+F1 
+atach to Node Process
+ElegirProceso
